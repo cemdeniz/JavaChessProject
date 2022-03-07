@@ -3,7 +3,7 @@ Java Chess Project
 
 Çalıştırma adımları
 
-1-Projeyi iistediğiniz ide ile açın (Önerilen ide = Eclipse)
+1-Projeyi istediğiniz ide ile açın (Önerilen ide = Eclipse)
 
 2-IDE içerisinde Build&Run yaptıktan sonra satranç tahtasını içeren .txt dosyasını seçin
 
