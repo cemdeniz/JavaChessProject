@@ -1,7 +1,7 @@
 # JavaChessProject
 Java Chess Project
 
-Kullanıcı tarafından seçilen satranç tahtasında piyon, at ve vezir tarafından oluşturulan tehditleri hesaplayıp beyaz ve siyah renkli taşların toplam değerlerini sonuçlar.txt'ye yazdıran proje (Parçaların başlangıç değerleri sabittir. Tehlike altındaki taşların değerleri yarıya düşer.)
+Kullanıcı tarafından seçilen satranç tahtasında piyon, at ve vezir tarafından oluşturulan tehditleri hesaplayıp beyaz ve siyah renkli taşların toplam değerlerini sonuçlar.txt'ye yazdıran proje (Parçaların başlangıç değerleri sabittir.(Piyon=1,At,Fil=3,Kale=5,Vezir=9,Şah=50) Tehlike altındaki taşların değerleri yarıya düşer.)
 
 Çalıştırma adımları
 
