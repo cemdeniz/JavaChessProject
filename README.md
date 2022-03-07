@@ -1,6 +1,8 @@
 # JavaChessProject
 Java Chess Project
 
+Kullanıcı tarafından seçilen satranç tahtasında piyon, at ve vezir tarafından oluşturulan tehditleri hesaplayıp beyaz ve siyah renkli taşların toplam değerlerini sonuçlar.txt'ye yazdıran proje (Parçaların başlangıç değerleri sabittir. Tehlike altındaki taşların değerleri yarıya düşer.)
+
 Çalıştırma adımları
 
 1-Projeyi istediğiniz ide ile açın (Önerilen ide = Eclipse)
